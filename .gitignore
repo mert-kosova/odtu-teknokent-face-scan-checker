@@ -1,0 +1,5 @@
+.idea
+node_modules/
+logs/
+cypress/screenshots
+cypress/videos
