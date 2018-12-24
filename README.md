@@ -6,6 +6,6 @@ Only requires npm to be installed on your computer.
 
 After `npm install` (which might take some time because of cypress) you need to give `runner.sh` permission to execute with `chmod +x runner.sh`
 
-Due to a problem with relative paths, you need to execute script on inside root folder of this project, this will hopefully be fixed soon.
+You can start the runner with npm using `npm run start`
 
 Output will be printed on your terminal and `logs/output.log` file.
